@@ -31,4 +31,4 @@ class String
     return new_array.length
   end
 end
-end
+
